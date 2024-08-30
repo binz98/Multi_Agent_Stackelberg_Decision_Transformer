@@ -35,7 +35,7 @@ If you would like to change the configs of experiments, you could modify sh file
 
 ## Citation
 
-
+```
 @InProceedings{pmlr-v235-zhang24au,
   title = 	 {Sequential Asynchronous Action Coordination in Multi-Agent Systems: A Stackelberg Decision Transformer Approach},
   author =       {Zhang, Bin and Mao, Hangyu and Li, Lijuan and Xu, Zhiwei and Li, Dapeng and Zhao, Rui and Fan, Guoliang},
@@ -50,4 +50,4 @@ If you would like to change the configs of experiments, you could modify sh file
   pdf = 	 {https://raw.githubusercontent.com/mlresearch/v235/main/assets/zhang24au/zhang24au.pdf},
   url = 	 {https://proceedings.mlr.press/v235/zhang24au.html},
 }
-
+```
