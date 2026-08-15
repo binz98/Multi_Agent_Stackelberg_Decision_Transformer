@@ -1,3 +1,5 @@
+
+
 # Stackelberg Decision  Transformer
 
 This is the implementation of Stackelberg Decision  Transformer (STEER) for our paper accepted by ICML2024: [Sequential Asynchronous Action Coordination in Multi-Agent Systems: A Stackelberg Decision Transformer Approach](https://openreview.net/pdf?id=M3qRRkOuTN). 
@@ -24,7 +26,7 @@ LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so
 Please following the instructios in https://github.com/google-research/football.
 
 ## How to run
-When your environment is ready, you could run shells in the "scripts" folder with algo="steer". For example:
+When your environment is ready, you could run shells in the "steer/scripts" folder with algo="steer". For example:
 ``` Bash
 ./train_matrix.sh
 ./train_football.sh
